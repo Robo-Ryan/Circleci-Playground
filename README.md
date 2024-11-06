@@ -1,7 +1,7 @@
 # 🏗️ Configure CircleCI Hello World Workflow
 
 Work with a partner to implement the following user story:
-
+ 
 * As a developer, I want CircleCI to run a workflow when I make changes to my GitHub code.
 
 ## Acceptance Criteria
